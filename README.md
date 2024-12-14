@@ -1,4 +1,4 @@
-# Snake Game 🐍
+![image](https://github.com/user-attachments/assets/d240af88-23d0-45da-8180-bb564ff2612a)# Snake Game 🐍
 
 A classic snake game built using **Pygame**, where you control a growing snake to eat fruit, earn points, and avoid collisions. Perfect for casual gaming and learning Pygame development!
 
@@ -13,7 +13,8 @@ A classic snake game built using **Pygame**, where you control a growing snake t
 ## Demo 🎮
 
 ### Main Menu
-![Main Menu](C:\Users\tript\Pictures\1.png)
+![Main Menu](![image](https://github.com/user-attachments/assets/527cb463-c7b9-4281-a936-a1144c3e3e35)
+)
 
 ### Gameplay
 ![Gameplay](./images/gameplay.png)
