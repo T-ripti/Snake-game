@@ -13,8 +13,9 @@ A classic snake game built using **Pygame**, where you control a growing snake t
 ## Demo 🎮
 
 ### Main Menu
-![Main Menu](![image](https://github.com/user-attachments/assets/527cb463-c7b9-4281-a936-a1144c3e3e35)
-)
+![image](https://github.com/user-attachments/assets/c1f3d155-c223-4a80-a25e-2298e63173c4)
+
+![Main Menu]
 
 ### Gameplay
 ![Gameplay](./images/gameplay.png)
