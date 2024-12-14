@@ -13,7 +13,7 @@ A classic snake game built using **Pygame**, where you control a growing snake t
 ## Demo 🎮
 
 ### Main Menu
-![Main Menu](C:\Users\tript\Pictures\Screenshots.png)
+![Main Menu](C:\Users\tript\Pictures\1.png)
 
 ### Gameplay
 ![Gameplay](./images/gameplay.png)
